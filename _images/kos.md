@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: image
 img: /img/kos_min.png
 title: Przypinka Kos
 description: Przypinka reklamowa firmy Kos

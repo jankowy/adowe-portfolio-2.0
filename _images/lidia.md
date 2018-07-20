@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: image
 img: /img/lidia_min.png
 title: Ulotka salony Lidia
 description: Ulotka reklamowa salonu fryzjerskiego Lidia

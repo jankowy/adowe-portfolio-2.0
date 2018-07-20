@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: image 
 img: /img/beesmart_min.png
 title: Wizitówki BeeSmart
 description: Wizytówki dla firmy BeeSmart

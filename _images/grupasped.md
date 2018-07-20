@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: image 
 img: /img/grupasped_min.png
 title: Ulotka reklamowa SPED
 description: Ulotka reklamowa dla firmy SPED

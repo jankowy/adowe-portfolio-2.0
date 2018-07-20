@@ -2,23 +2,14 @@
 layout: default
 ---
 
-<!-- A wrapper for all the blog posts -->
-<div class="posts">
-  <h1 class="content-subhead">Works</h1>
+<div class="images-grid">
+  <div class="images-grid-sizer"></div>
 
-  {% for post in site.posts %}
-    <section class="post">
-      <header class="post-header">
-        <h2 class="post-title">{{ post.title }}</h2>
-      </header>
-
-      <img src="{{ post.img }}" alt="{{ post.title }}">
-
-      <div class="post-description">
-        <p>
-          {{ post.description }}
-        </p>
-      </div>
-    </section>
+  {% for image in site.images %}
+    <a href="{{ image.url }}">
+      <section class="images-grid-item">
+        <img src="{{ image.img }}" alt="{{ image.title }}">
+      </section>
+    </a>
   {% endfor %}
 </div>
