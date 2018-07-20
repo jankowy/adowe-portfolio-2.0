@@ -143,3 +143,7 @@ a .brand-tagline {
 .images-grid-item img {
   max-width: 100%;
 }
+
+img.image-page-img {
+  max-width: 100%;
+}

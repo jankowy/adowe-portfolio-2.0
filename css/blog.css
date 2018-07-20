@@ -115,6 +115,10 @@ a .brand-tagline {
   max-width: 100%;
 }
 
+img.image-page-img {
+  max-width: 100%;
+}
+
 @media (min-width: 48em) {
   .content {
     padding: 2em 3em 0;
