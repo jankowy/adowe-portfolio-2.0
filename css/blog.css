@@ -33,19 +33,24 @@ h3 {
   margin: 3em auto;
 }
 
+.header a {
+  text-decoration: none;
+}
+
 .sidebar {
   background: rgb(61, 79, 93);
   color: #fff;
 }
 
-.brand-title,
-.brand-tagline {
+a .brand-title,
+a .brand-tagline {
   margin: 0;
 }
-.brand-title {
+a .brand-title {
   text-transform: uppercase;
+  color: #fff;
 }
-.brand-tagline {
+a .brand-tagline {
   font-weight: 300;
   color: rgb(176, 202, 219);
 }
